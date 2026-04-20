@@ -1,3 +1,5 @@
-theme: no-style-please
+remote_theme: no-style-please
+plugins:
+- jekyll-remote-theme
 title: The Jason Royer Corner
 author: Jason Royer
