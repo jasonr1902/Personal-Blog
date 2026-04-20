@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Home
 ---
+Find my blog articles here.
